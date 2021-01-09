@@ -1,1 +1,1 @@
-# Regression-Problems
+# In Regression-Problems,Problems are solved by linear regression model,poly regression model,plot prediction,cross validation score method use for prediction and also House price project prediction and calories prediction project of Regression Problem. 
